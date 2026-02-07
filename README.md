@@ -1,0 +1,1 @@
+# medium-7-admin-diagnostics
